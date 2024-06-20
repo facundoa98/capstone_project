@@ -5,6 +5,6 @@ This is the capstone project in order to finish my Data Science Profesional Cerr
 There are several documents in this foldier, showing every step of the way on this project:
 1. Data collection: using APIs and web scrapping.
 2. Data wrangling: with pandas.
-3. Exploratory Data Analysis: using matplotlib, seaborn, SQL and Folium.
+3. Exploratory Data Analysis: using matplotlib, seaborn, SQL, creation of a Dash App and interactive maps with Folium.
 4. Predictive analysis.
 5. Final Presentation.
